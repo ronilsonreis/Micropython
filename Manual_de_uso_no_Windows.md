@@ -1,5 +1,5 @@
 
-
+#Manual
 
 Baixe do meu repositokrio os arquivos https://github.com/ronilsonreis/Micropython/
 Neste arquivo contém:
@@ -12,7 +12,6 @@ Vamos precisar também do arquivo esp8266-20171101-v1.9.x.bin que pode ser baixa
 Após baixar todso so arquivos 
 conecte-se ao ESP8266 via serial.
 1 - Valide no gerenciador de dispositivos subitem Porta COM e LPT se a porta equivalente ao seu NODEMCU connectado está habilitada vide imagem
-
 
 
 Caso não esteja instale o CP210x_Windows_Drivers
